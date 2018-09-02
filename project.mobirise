@@ -33,12 +33,12 @@
         "#000000"
       ]
     },
-    "siteUrl": "",
+    "siteUrl": "https://visualhit.ga/",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "versionFirst": "4.6.6",
     "uniqCompNum": 55,
     "versionPublish": "4.8.1",
@@ -51,7 +51,10 @@
         "css": "'Rubik', sans-serif"
       }
     ],
-    "gdpr": ""
+    "gdpr": "",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -59,7 +62,7 @@
         "main": true,
         "title": "My Portofolio",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<meta name=\"google-site-verification\" content=\"ubGXt2t5AMRdUedDpTANc1Ldoqd2R5S-8R02PNqaUDQ\" />",
         "footer_custom": "",
         "html_before": ""
       },

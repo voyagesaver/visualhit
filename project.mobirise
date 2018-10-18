@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Visual Hit",
-    "currentPage": "aboutme.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -13,15 +13,15 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Cabin",
+        "display1Font": "Hind",
         "display1Size": 4.25,
-        "display2Font": "Cabin",
+        "display2Font": "Hind",
         "display2Size": "2.5",
-        "display5Font": "Cabin",
+        "display5Font": "Hind",
         "display5Size": "0.8",
-        "display7Font": "Cabin",
+        "display7Font": "Hind",
         "display7Size": 1,
-        "display4Font": "Cabin",
+        "display4Font": "Hind",
         "display4Size": "0.8",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
@@ -55,6 +55,11 @@
         "css": "'Cabin', sans-serif",
         "name": "Cabin",
         "url": "https://fonts.googleapis.com/css?family=Cabin:400,400i,500,500i,600,600i,700,700i"
+      },
+      {
+        "css": "'Hind', sans-serif",
+        "name": "Hind",
+        "url": "https://fonts.googleapis.com/css?family=Hind:300,400,500,600,700"
       }
     ],
     "gdpr": "",
@@ -89,7 +94,7 @@
               "color": "#f1f1f1"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             }
           },
           "_name": "header2",

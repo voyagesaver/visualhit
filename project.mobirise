@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Visual Hit",
-    "currentPage": "aboutme.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "cookiesAlert": "",
     "versionFirst": "4.6.6",
     "uniqCompNum": 72,
     "versionPublish": "4.8.1",
